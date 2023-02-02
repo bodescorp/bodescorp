@@ -45,10 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
 </div>
 
-###
+<!-- ###
 
 <br clear="both">
-<!-- 
+
 <img src="https://raw.githubusercontent.com/bodescorp/bodescorp/blob/output/snake.svg" alt="Snake animation" />
- -->
-###
+### -->
