@@ -6,9 +6,9 @@
 
 ###
 
-<p align="left">Graduando no curso de Análise e Desenvolvimento de Sistemas (ADS)<br>pelo IFPB, Campus Cajazeiras. Estuda a área de desenvolvimento desde o ano de<br>2014 e atua profissionalmente desde 2021. Desenvolve aplicações web em NodeJS e<br>React. Atua na área de suporte e manutenção em informática desde 2018. Destaca-se<br>pelas qualidades de relacionamento interpessoal, facilidade em trabalhar em equipe,<br>organização e disposição em aprender. Entre as áreas de interesse estão:<br>desenvolvimento web, DBA e desenvolvimento Back-End.</p>
+<p align="left">Graduando no curso de Análise e Desenvolvimento de Sistemas (ADS)<br>pelo IFPB, Campus Cajazeiras.</p>
 
-<h3 align="left">MY SKILLS</h3>
+<h3 align="left">Skills</h3>
 
 ###
 
