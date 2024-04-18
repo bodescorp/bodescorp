@@ -41,17 +41,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="left" height="150" src="https://www.fightersgeneration.com/characters2/iori-laughinghisassoff.gif"  />
-
-###
-
-<h2 align="left">Visitas no pefil</h2>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/bodescorp/count.svg?"  />
-
-###
