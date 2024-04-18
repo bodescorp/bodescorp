@@ -8,15 +8,6 @@
 
 <p align="left">Graduando no curso de Análise e Desenvolvimento de Sistemas (ADS)<br>pelo IFPB, Campus Cajazeiras. Estuda a área de desenvolvimento desde o ano de<br>2014 e atua profissionalmente desde 2021. Desenvolve aplicações web em NodeJS e<br>React. Atua na área de suporte e manutenção em informática desde 2018. Destaca-se<br>pelas qualidades de relacionamento interpessoal, facilidade em trabalhar em equipe,<br>organização e disposição em aprender. Entre as áreas de interesse estão:<br>desenvolvimento web, DBA e desenvolvimento Back-End.</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=bodescorp" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=bodescorp" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">MY SKILLS</h3>
 
 ###
