@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Graduando no curso de Análise e Desenvolvimento de Sistemas (ADS)<br>pelo IFPB, Campus Cajazeiras.</p>
+<p align="left">Graduado no curso de Análise e Desenvolvimento de Sistemas (ADS)<br>pelo IFPB, Campus Cajazeiras.</p>
 
 <h3 align="left">Skills</h3>
 
