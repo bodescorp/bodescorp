@@ -1,42 +1,67 @@
-# Salve, eu sou Glaymar A. de França 👋
+# 🚀 Glaymar Albuquerque de França
+### Desenvolvedor Full-Stack | Fundador da Alttab Corp
 
-Graduado em Análise e Desenvolvimento de Sistemas pelo IFPB, Campus Cajazeiras. Desenvolvedor de aplicações web em NodeJS desde 2021, com experiência em suporte e manutenção de sistemas desde 2018. Excelentes habilidades de relacionamento interpessoal, trabalho em equipe e organização. Apaixonado por desenvolvimento web, administração de bancos de dados e desenvolvimento de Back-End.
+📧 Email: [glaymar2010@gmail.com](mailto:glaymar2010@gmail.com)
 
-## 🔧 Tecnologias e Ferramentas
-- **Linguagens de Programação:** Python, JavaScript, TypeScript
-- **Frameworks e Bibliotecas:** NestJS, Django, Nuxt
-- **Banco de Dados:** PostgreSQL, Neo4j, MongoDB
-- **Outras Ferramentas:** Docker, Poetry, Git
+📱 Telefone: [+55 83 99332-2427](tel:+5583993322427)
 
-## 🚀 Projetos Recentes
-### API REST para Cadastro de Pagamentos
-- **Descrição:** API desenvolvida com NestJS para cadastro e gerenciamento de pagamentos, incluindo validação de contas, atualização de saldo, armazenamento no banco de dados, e geração de relatórios de transações.
-- **Tecnologias:** NestJS, TypeScript, PostgreSQL
-- **Repositório:** [Link para o repositório](https://github.com/bodescorp/API-bank)
+🌎 Local: **--**
 
-### Gerenciamento de Tarefas (To-Do List)
-- **Descrição:** API RESTful para gerenciamento de tarefas (To-Do List) com funcionalidades de criação, listagem, atualização e exclusão de tarefas. Inclui validação de dados, tratamento de erros, documentação com Swagger, e autenticação de usuário.
-- **Tecnologias:** NestJS, TypeScript, Swagger, PostgreSQL
-- **Repositório:** [Link para o repositório](https://github.com/bodescorp/API-toDo_List)
+🔗 LinkedIn: [linkedin.com/in/glaymar-albuquerque-de-franca](https://linkedin.com/in/glaymar-albuquerque-de-franca)
 
-### Aplicação de Investimentos com Django
-- **Descrição:** Aplicação Django para gerenciamento de investimentos, seguindo um tutorial. Utiliza Poetry e Docker Compose para gerenciamento do projeto.
-- **Tecnologias:** Django, Python, PostgreSQL, Docker, Poetry
-- **Repositório:** [Link para o repositório](https://github.com/bodescorp/Invest_Django)
+🖥️ GitHub: [bodescorp](https://github.com/bodescorp)
 
-## 🌱 Atualmente Estudando
-- Django
-- Docker
-- Nuxt
-- Flutter
-- Nestjs
+---
 
-## 📫 Entre em Contato
-- **Email:** [glaymar2010@gmail.com](mailto:seu.email@example.com)
-- **LinkedIn:** [glaymar-albuquerque-de-frança](https://www.linkedin.com/in/glaymar-albuquerque-de-fran%C3%A7a/)
-- **Twitter:** [@glayterra](https://twitter.com/glayterra)
+## 🔥 Sobre Mim
+Sou um **Desenvolvedor Full-Stack com mais de 6 anos de experiência**, apaixonado por criar soluções escaláveis, seguras e inovadoras. Lidero projetos que combinam tecnologia de ponta com estratégias de negócios, impactando positivamente os setores educacional, hospitalar e corporativo.
 
-## 💬 Idiomas
-- Português
+---
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. 😄
+## 💡 Minhas Competências
+- **Back-end**: Node.js (6 anos), NestJS, Python/Django, Express.js, TypeScript
+- **Front-end**: React, React Native
+- **DevOps & Cloud**: Docker
+- **Bancos de Dados**: PostgreSQL, Neo4j, MongoDB
+- **Ferramentas**: Swagger, TypeORM, Insomnia, Git
+
+---
+
+## ⚙️ Projetos de Destaque
+### 1️⃣ Sistema de Inventários Históricos
+- Análise de documentos judiciais históricos usando **banco de dados de grafos (Neo4j)**
+- Interface web interativa em **React**
+- API REST em **Node.js/TypeScript**
+- Pesquisa otimizada que reduz o tempo de análise de horas para minutos
+
+### 2️⃣ API Biblioteca CIEC
+- Gerenciamento completo de acervo bibliográfico com documentação interativa
+- Arquitetura modular com **NestJS** e **Docker**
+- Segurança por autenticação JWT e controle de permissões
+
+### 3️⃣ Sistema de Certificados
+- Automação da emissão de certificados com validação via **QR Code**
+- Interface responsiva em **Django Templates**
+- Processo de horas para minutos, sistema anti-fraude
+
+### 4️⃣ Sistema de Apoio Educacional
+- Desenvolvimento de plataforma para atendimento aos alunos usando **Node.js** e **React**
+
+---
+
+## 🏆 Destaques de Liderança
+- **Visão estratégica** e mentalidade **empreendedora**
+- **Resolução eficaz de problemas** complexos
+- **Comunicação clara** e forte atuação em **trabalho em equipe**
+- Alta **adaptabilidade** e busca contínua de aprendizado
+- Foco em **resultados** e **qualidade**
+
+---
+
+## 🌍 Disponibilidade
+Aberto a novas oportunidades, com disponibilidade para trabalho remoto ou reavaliação de localidade.
+
+---
+
+## Vamos transformar ideias em realidade!
+Vamos conversar? ✨
