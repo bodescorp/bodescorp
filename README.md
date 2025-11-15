@@ -5,11 +5,11 @@
 
 📱 Telefone: [+55 83 99332-2427](tel:+5583993322427)
 
-🌎 Local: **--**
+🔗 My online CV: [linkedin.com/in/glaymar-albuquerque-de-franca](https://bodescorp.github.io/GlaymarAdeFranca/)
 
-🔗 LinkedIn: [linkedin.com/in/glaymar-albuquerque-de-franca](https://linkedin.com/in/glaymar-albuquerque-de-franca)
+🏢 Alttab Corp — Soluções em TI, Impressão 3D e E-sports
 
-🖥️ GitHub: [bodescorp](https://github.com/bodescorp)
+🌐 Site: [alttabcorp.com.br](https://www.alttabcorp.com.br)
 
 ---
 
