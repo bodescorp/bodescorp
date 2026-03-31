@@ -1,67 +1,56 @@
-# 🚀 Glaymar Albuquerque de França
+# Glaymar Albuquerque de França
 ### Desenvolvedor Full-Stack | Fundador da Alttab Corp
 
-📧 Email: [glaymar2010@gmail.com](mailto:glaymar2010@gmail.com)
+Desenvolvedor Full-Stack com 6+ anos de experiência em aplicações web e APIs, principalmente com **Node.js/TypeScript** e **React**, atuando na construção de soluções para os setores educacional, hospitalar e corporativo. Fundador e responsável técnico da **Alttab Corp**, conduzindo projetos do planejamento à entrega em produção.
 
-📱 Telefone: [+55 83 99332-2427](tel:+5583993322427)
-
-🔗 My online CV: [linkedin.com/in/glaymar-albuquerque-de-franca](https://bodescorp.github.io/GlaymarAdeFranca/)
-
-🏢 Alttab Corp — Soluções em TI, Impressão 3D e E-sports
-
-🌐 Site: [alttabcorp.com.br](https://www.alttabcorp.com.br)
+**Email:** [glaymar2010@gmail.com](mailto:glaymar2010@gmail.com)  
+**Telefone:** [+55 83 9 9332-2427](tel:+5583993322427)  
+**Portfólio/CV:** [bodescorp.github.io/GlaymarAdeFranca](https://bodescorp.github.io/GlaymarAdeFranca/)  
+**LinkedIn (Alttab Corp):** [linkedin.com/company/alttab-corp](https://www.linkedin.com/company/alttab-corp)  
+**Site:** [alttabcorp.com.br](https://www.alttabcorp.com.br)
 
 ---
 
-## 🔥 Sobre Mim
-Sou um **Desenvolvedor Full-Stack com mais de 6 anos de experiência**, apaixonado por criar soluções escaláveis, seguras e inovadoras. Lidero projetos que combinam tecnologia de ponta com estratégias de negócios, impactando positivamente os setores educacional, hospitalar e corporativo.
+## Stack principal
+
+- **Back-end:** Node.js, NestJS, Express.js, TypeScript  
+- **Front-end:** React, React Native  
+- **Bancos de dados:** PostgreSQL, MongoDB, Neo4j  
+- **APIs & Arquitetura:** REST, arquitetura em camadas, autenticação JWT, Swagger  
+- **DevOps & Infra:** Docker, conteinerização de aplicações
 
 ---
 
-## 💡 Minhas Competências
-- **Back-end**: Node.js (6 anos), NestJS, Python/Django, Express.js, TypeScript
-- **Front-end**: React, React Native
-- **DevOps & Cloud**: Docker
-- **Bancos de Dados**: PostgreSQL, Neo4j, MongoDB
-- **Ferramentas**: Swagger, TypeORM, Insomnia, Git
+## Projetos de destaque
+
+- **Sistema de Inventários Históricos:** plataforma para análise de documentos judiciais históricos, usando **Node.js/TypeScript**, **React** e **Neo4j**, reduzindo consultas que levavam horas para poucos minutos.  
+- **API Biblioteca CIEC:** solução para gestão de acervo bibliográfico com **NestJS** e **Docker**, incluindo autenticação JWT, controle de permissões e documentação via Swagger.  
+- **Sistema de Emissão de Certificados:** automação do fluxo de geração e validação de certificados com **Django** e validação via **QR Code**, cortando o tempo de emissão de horas para minutos.
 
 ---
 
-## ⚙️ Projetos de Destaque
-### 1️⃣ Sistema de Inventários Históricos
-- Análise de documentos judiciais históricos usando **banco de dados de grafos (Neo4j)**
-- Interface web interativa em **React**
-- API REST em **Node.js/TypeScript**
-- Pesquisa otimizada que reduz o tempo de análise de horas para minutos
+## Atuação na Alttab Corp
 
-### 2️⃣ API Biblioteca CIEC
-- Gerenciamento completo de acervo bibliográfico com documentação interativa
-- Arquitetura modular com **NestJS** e **Docker**
-- Segurança por autenticação JWT e controle de permissões
+Na **Alttab Corp** atuo como fundador e responsável técnico, entregando soluções em:
 
-### 3️⃣ Sistema de Certificados
-- Automação da emissão de certificados com validação via **QR Code**
-- Interface responsiva em **Django Templates**
-- Processo de horas para minutos, sistema anti-fraude
+- Desenvolvimento de aplicações web sob medida  
+- Consultoria em arquitetura de sistemas e infraestrutura  
+- Integração entre soluções digitais, E-Sports e impressão 3D
 
-### 4️⃣ Sistema de Apoio Educacional
-- Desenvolvimento de plataforma para atendimento aos alunos usando **Node.js** e **React**
+Mais em: [alttabcorp.com.br](https://www.alttabcorp.com.br)
 
 ---
 
-## 🏆 Destaques de Liderança
-- **Visão estratégica** e mentalidade **empreendedora**
-- **Resolução eficaz de problemas** complexos
-- **Comunicação clara** e forte atuação em **trabalho em equipe**
-- Alta **adaptabilidade** e busca contínua de aprendizado
-- Foco em **resultados** e **qualidade**
+## About me (EN)
+
+Full-Stack Developer (Node.js/TypeScript, React) and founder of **Alttab Corp**, leading end-to-end web projects and APIs for education, healthcare and corporate clients.
 
 ---
 
-## 🌍 Disponibilidade
-Aberto a novas oportunidades, com disponibilidade para trabalho remoto ou reavaliação de localidade.
+## Contato
 
----
+Aberto a novas oportunidades, parcerias e projetos.
 
-## Vamos transformar ideias em realidade!
-Vamos conversar? ✨
+- Email: [glaymar2010@gmail.com](mailto:glaymar2010@gmail.com)  
+- Site: [alttabcorp.com.br](https://www.alttabcorp.com.br)  
+- Portfólio/CV: [bodescorp.github.io/GlaymarAdeFranca](https://bodescorp.github.io/GlaymarAdeFranca/)
