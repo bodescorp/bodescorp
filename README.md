@@ -2,7 +2,7 @@
 
 # Glaymar Albuquerque de França
 
-### Desenvolvedor Full-Stack Sênior · Software Engineer · AI Specialist
+### Desenvolvedor Full-Stack · Software Engineer · AI Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/glaymar-albuquerque-de-fran%C3%A7a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bodescorp)
